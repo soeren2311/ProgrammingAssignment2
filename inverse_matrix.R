@@ -1,6 +1,6 @@
 ## data.frame
 # Directories
-path <- "/Users/sorennonnengart/Coursera/Data_science/Aufgaben/course2_week3"
+path <- "/Users/.../course2_week3"
 setwd(path)
 
 ## The first thing I did was setting the input x as a matrix with a range from 1 to 100 and 25 values
